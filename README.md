@@ -6,7 +6,7 @@ I am a Computer Science student at COMSATS University Islamabad. I am passionate
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mozi.op.09/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_am_mustafa09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-mustafa-iqbal/) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23000000.svg?style=plastic&logo=javascript&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ahmad-Mustafa-Iqbal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Mustafa-Iqbal&theme=dark&hide_border=false)<br/>
