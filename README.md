@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at COMSATS University Islamabad. I am passionate about web development, artificial intelligence, and building innovative software solutions. Currently, I am learning full-stack development and exploring data structures and algorithms to enhance my problem-solving skills.<br><br>🌱 What I've learned:<br>- Frontend: HTML, CSS, JavaScript, React.js<br>- Backend: Python, Java<br><br>📚 Interests:<br>- Full-stack development<br>- AI and Machine Learning (Game development)<br>- Competitive programming<br><br>🚀 Goals:<br>- To become a skilled full-stack developer and AI engineer.<br>- To contribute to open-source projects and collaborate with developers worldwide.
+I am a Computer Science student at COMSATS University Islamabad. I am passionate about artificial intelligence, and building innovative software solutions. Currently, I am learning AI/ML and exploring data structures and algorithms to enhance my problem-solving skills.<br><br>🌱 What I've learned:<br>- Frontend: HTML, CSS, JavaScript, React.js<br>- Backend: Python, Java<br><br>📚 Interests:<br>- Full-stack development<br>- AI and Machine Learning <br>- Competitive programming<br><br>🚀 Goals:<br>- To become a skilled AI engineer.<br>- To contribute to open-source projects and collaborate with developers worldwide.
 
 
 ## 🌐 Socials:
