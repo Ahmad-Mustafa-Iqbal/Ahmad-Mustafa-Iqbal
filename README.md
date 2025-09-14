@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at COMSATS University Islamabad. I am passionate about artificial intelligence, and building innovative software solutions. Currently, I am learning AI/ML and exploring data structures and algorithms to enhance my problem-solving skills.<br><br>🌱 What I've learned:<br>- Frontend: HTML, CSS, JavaScript, React.js<br>- Backend: Python, Java<br><br>📚 Interests:<br>- Full-stack development<br>- AI and Machine Learning <br>- Competitive programming<br><br>🚀 Goals:<br>- To become a skilled AI engineer.<br>- To contribute to open-source projects and collaborate with developers worldwide.
+I am a Computer Science student at COMSATS University Islamabad with CGPA of 3.92. I am passionate about artificial intelligence, and building innovative software solutions. Currently, I am learning AI/ML and exploring ML.<br><br>🌱 What I've learned:<br>- Stats and Probabiity, Multivariate Calculus, Linear Algebra Basics of Machine Learning <br>- Backend: Python, Java, CPP<br><br>📚 Interests:<br>- Machine Learning and Data Science <br>- AI <br>- Competitive programming<br><br>🚀 Goals:<br>- To become a skilled ML engineer.<br>- To contribute to open-source projects and collaborate with developers worldwide.
 
 
 ## 🌐 Socials:
